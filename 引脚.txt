@@ -1,0 +1,5 @@
+芯片型号：STM32F103C8T6
+蓝色：GND
+橙色：SWCLK
+绿色：SWIO
+黄色：3V3

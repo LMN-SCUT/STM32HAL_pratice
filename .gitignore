@@ -1,0 +1,45 @@
+# --- Keil MDK-ARM 产生的中间文件 (最占空间) ---
+**/MDK-ARM/Listing/
+**/MDK-ARM/Object/
+**/MDK-ARM/DebugConfig/
+*.lst
+*.obj
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.htm
+*.build_log.htm
+*.dep
+*.uvgui.*
+*.uvguix.*
+*.uvoptx
+*.scvd
+
+# --- STM32CubeMX 备份与日志 ---
+*.log
+*.bak
+*_backup
+
+# --- Python & Conda ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+.conda
+.env
+# 如果你以后有大型数据集，千万别传！取消下面注释即可：
+# *.jpg
+# *.png
+# *.mp4
+# *.zip
+
+# --- Visual Studio Code & IDE ---
+.vscode/
+.history/
+*.code-workspace
+
+# --- Windows 系统垃圾 ---
+Thumbs.db
+desktop.ini
